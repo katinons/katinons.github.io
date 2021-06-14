@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.08943d94cc6f48932d9e17598af8b22d.js"
+  "/precache-manifest.2c7254c4e90899f84a8ab2989a5c3b52.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "take-your-pills"});
